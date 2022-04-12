@@ -1,0 +1,18 @@
+.about-posts {
+  margin-left: 20px;
+  max-width: 550px;
+}
+
+.about-comments {
+  margin-left: 20px;
+  max-width: 400px;
+}
+
+.about-comments-author {
+  text-align: right;
+}
+.about-title {
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+}
